@@ -6,6 +6,5 @@ let descontoProduto = parseFloat(prompt("Informe o desconto aplicado sobre o pro
 function calcularDesconto(preco, percentual) {
     return preco - (preco * percentual) / 100;
 }
-
 console.log(calcularDesconto(valorProduto, descontoProduto));
 

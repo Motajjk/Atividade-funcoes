@@ -5,5 +5,4 @@ let grausCelsius = parseFloat(prompt("Insira um valor de Graus Celsius desejado 
 function celsiusParaFahrenheit(c) {
     return c * 1.8 + 32;
 }
-
 console.log(celsiusParaFahrenheit(grausCelsius));

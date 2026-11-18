@@ -10,5 +10,4 @@ function numeroMaior(a, b) {
         return b;
     }
 }
-
 console.log(numeroMaior(numero1, numero2));

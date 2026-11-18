@@ -9,5 +9,4 @@ function verificarIdade(idade) {
         return "Você é menor de idade."
     }
 }
-
 console.log(verificarIdade(idade));

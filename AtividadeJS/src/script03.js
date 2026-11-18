@@ -6,5 +6,4 @@ let numero2 = parseFloat(prompt("Informe o segundo valor:"));
 function soma(a, b) {
     return a + b;
 }
-
 console.log(soma(numero1, numero2));
